@@ -68,7 +68,7 @@ section {
 .experience-area {
   background-image: url("exp-bg.png");
   background-repeat: no-repeat;
-  background-position: left;
+  background-position: center;
 }
 
 #full-stack {
